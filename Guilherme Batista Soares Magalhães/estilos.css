@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(209, 253, 255);
+}
+img{
+    width: 240px;
+    height: 180px;
+}
+header{
+    font-size: medium;
+    text-align: center;
+}
+p{
+    font-size: 110%;
+    margin-left: 40%;
+}
+h3{
+    font-size: medium;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
